@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'SyncBar' target in the 'SyncBar' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
